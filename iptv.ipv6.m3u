@@ -71,20 +71,6 @@ http://[2001:250:4801::430:89]/hls/hls260.m3u8
 http://[2001:250:4801::430:89]/hls/hls259.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC高清",CHC动作电影-高清
 http://[2001:250:4801::430:89]/hls/hls261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N家庭剧场HD-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N家庭剧场HD-高清
-http://[2001:250:4801::430:89]/hls/hls75a28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N大众影视HD-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N大众影视HD-高清
-http://[2001:250:4801::430:89]/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N家庭影院HD-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N家庭影院HD-高清
-http://[2001:250:4801::430:89]/hls/hls75a29.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N卡通剧场HD-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N卡通剧场HD-高清
-http://[2001:250:4801::430:89]/hls/hls77a30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="爱映画-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",爱映画-高清
-http://[2001:250:4801::430:89]/hls/hls78a46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁交通广播-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",辽宁交通广播-高清
-http://[2001:250:4801::430:89]/hls/hls185a641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁音乐广播-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",辽宁音乐广播-高清
-http://[2001:250:4801::430:89]/hls/hls185a642.m3u8
 #EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg" group-title="辽宁",沈阳新闻综合-高清
 http://[2001:250:4801::430:89]/hls/hls185a542.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="辽宁",辽宁卫视-高清
@@ -105,8 +91,6 @@ http://[2001:250:4801::430:89]/hls/hls185a417.m3u8
 http://[2001:250:4801::430:89]/hls/hls185a419.m3u8
 #EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" group-title="辽宁",辽宁青少-标清
 http://[2001:250:4801::430:89]/hls/hls185a418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁宜佳购物-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",辽宁宜佳购物-标清
-http://[2001:250:4801::430:89]/hls/hls185a575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁移动电视-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",辽宁移动电视-标清
 http://[2001:250:4801::430:89]/hls/hls185a498.m3u8
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫-标清
@@ -243,8 +227,6 @@ http://[2001:250:4801::430:89]/hls/btv10.m3u8
 http://[2001:250:4801::430:89]/hls/cetv3.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",中国教育4台-标清
 http://[2001:250:4801::430:89]/hls/cetv4.m3u8
-#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="中数",中数早期教育-标清
-http://[2001:250:4801::430:89]/hls/hls25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育台-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",山东教育台-标清
 http://[2001:250:4801::430:89]/hls/sdetv.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="地方",探索发现频道-标清
@@ -267,24 +249,6 @@ http://[2001:250:4801::430:89]/hls/hls184a427.m3u8
 http://[2001:250:4801::430:89]/hls/hls24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰电影-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",凤凰电影-标清
 http://[2001:250:4801::430:89]/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N经典剧场-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N经典剧场-标清
-http://[2001:250:4801::430:89]/hls/hls89.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N热播电影-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N热播电影-标清
-http://[2001:250:4801::430:89]/hls/hls32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N生活剧场-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N生活剧场-标清
-http://[2001:250:4801::430:89]/hls/hls37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N原声电影-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N原声电影-标清
-http://[2001:250:4801::430:89]/hls/hls33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N家庭影院-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N家庭影院-标清
-http://[2001:250:4801::430:89]/hls/hls39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N怀旧电影-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N怀旧电影-标清
-http://[2001:250:4801::430:89]/hls/hls48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N译制片-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N译制片-标清
-http://[2001:250:4801::430:89]/hls/hls31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N纪录片-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",N纪录片-标清
-http://[2001:250:4801::430:89]/hls/hls66.m3u8
-#EXTINF:-1 group-title="辽宁" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",N古装剧场-标清
-http://[2001:250:4801::430:89]/hls/hls54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="精选-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",精选-标清
 http://[2001:250:4801::430:89]/hls/hls102.m3u8
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库-标清
