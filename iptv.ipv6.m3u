@@ -155,8 +155,6 @@ http://[2001:250:4801::430:89]/hls/hls184a639.m3u8
 http://[2001:250:4801::430:89]/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",动漫秀场-高清
 http://[2001:250:4801::430:89]/hls/hls184a636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="时光剧场-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",时光剧场-高清
-http://[2001:250:4801::430:89]/hls/hls78a48.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台-高清
 http://[2001:250:4801::430:89]/hls/hls67a45.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓-高清
