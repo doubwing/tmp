@@ -117,7 +117,7 @@ http://[2001:250:4801::430:89]/hls/hls67a42.m3u8
 http://ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视-高清
 http://[2001:250:4801::430:89]/hls/hls77a55.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视-高清
+#EXTINF:-1 tvg-id="HaiNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视-高清
 http://[2001:250:4801::430:89]/hls/hls77a74.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视-高清
 http://[2001:250:4801::430:89]/hls/jlu_hbhd1.m3u8
@@ -157,6 +157,28 @@ http://[2001:250:4801::430:89]/hls/hls186a503.m3u8
 http://[2001:250:4801::430:89]/hls/sstv.m3u8
 #EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg" group-title="辽宁",沈阳新闻综合-高清
 http://[2001:250:4801::430:89]/hls/hls185a542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",新闻资讯
+http://stream.snrtv.com/sxbc-1-aFHLMO.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",都市青春
+http://stream.snrtv.com/sxbc-2-brCDF3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",生活频道
+http://stream.snrtv.com/sxbc-3-iCIJX7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",公共频道
+http://stream.snrtv.com/sxbc-5-rswC49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",体育休闲
+http://stream.snrtv.com/sxbc-7-orsTW9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",农林卫视
+http://stream.snrtv.com/sxbc-nl-asLN57.m3u8
+#EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="西安",新闻综合
+http://stream2.xiancity.cn/xatv1/playlist.m3u8
+#EXTINF:-1 tvg-id="XiAnBaiGe.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" group-title="西安",都市频道
+http://stream2.xiancity.cn/xatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="XiAnShangWuZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv3.jpg" group-title="西安",商务资讯
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv4.jpg" group-title="西安",影视频道
+http://stream2.xiancity.cn/xatv4/playlist.m3u8
+#EXTINF:-1 tvg-id="XiAnSiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" group-title="西安",丝路频道
+http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="辽宁",辽宁公共-高清
 http://[2001:250:4801::430:89]/hls/hls185a541.m3u8
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.jpg" group-title="辽宁",辽宁经济-高清
