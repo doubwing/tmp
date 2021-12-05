@@ -267,8 +267,6 @@ http://[2001:250:4801::430:89]/hls/hls184a505.m3u8
 http://[2001:250:4801::430:89]/hls/hls184a427.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电子体育-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",电子体育-标清
 http://[2001:250:4801::430:89]/hls/hls24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰电影-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",凤凰电影-标清
-http://[2001:250:4801::430:89]/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="精选-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",精选-标清
 http://[2001:250:4801::430:89]/hls/hls102.m3u8
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库-标清
