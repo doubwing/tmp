@@ -37,7 +37,7 @@ http://[2001:250:4801::430:89]/hls/hls185a17.m3u8
 http://[2001:250:4801::430:89]/hls/hls73a6.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-高清
 http://[2001:250:4801::430:89]/hls/hls185a571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",清华大学-高清
+#EXTINF:-1 tvg-id="" tvg-name="清华大学" tvg-logo="https://www.tsinghua.edu.cn/new/image/logo308.png" group-title="",清华大学-高清
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN纪录(英)-高清
 http://[2001:250:4801::430:89]/hls/hls67a44.m3u8
@@ -116,7 +116,7 @@ http://[2001:250:4801::430:89]/hls/hls70a19.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视-高清
 http://[2001:250:4801::430:89]/hls/hls67a42.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视-标清
-http://ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+http://[2001:250:4801::430:89]/hls/hntv.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视-高清
 http://[2001:250:4801::430:89]/hls/hls77a55.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视-高清
@@ -267,6 +267,8 @@ http://[2001:250:4801::430:89]/hls/hls184a505.m3u8
 http://[2001:250:4801::430:89]/hls/hls184a427.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电子体育-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",电子体育-标清
 http://[2001:250:4801::430:89]/hls/hls24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",凤凰电影-标清
+http://[2001:250:4801::430:89]/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="精选-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",精选-标清
 http://[2001:250:4801::430:89]/hls/hls102.m3u8
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库-标清
