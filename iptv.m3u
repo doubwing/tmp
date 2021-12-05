@@ -247,8 +247,8 @@ http://[2001:250:4801::430:89]/hls/btv9hd.m3u8
 http://[2001:250:4801::430:89]/hls/hls69a25.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",卡酷动画-标清
 http://[2001:250:4801::430:89]/hls/btv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东教育台-标清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",山东教育台-标清
-http://[2001:250:4801::430:89]/hls/sdetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东教育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",山东教育台-高清
+https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="地方",探索发现频道-标清
 http://[2001:250:4801::430:89]/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="527" tvg-name="Channel[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="地方",Channel[V]-标清
