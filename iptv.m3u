@@ -37,6 +37,8 @@ http://[2001:250:4801::430:89]/hls/hls185a17.m3u8
 http://[2001:250:4801::430:89]/hls/hls73a6.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-高清
 http://[2001:250:4801::430:89]/hls/hls185a571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",清华大学-高清
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN纪录(英)-高清
 http://[2001:250:4801::430:89]/hls/hls67a44.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",中数世界地理-高清
@@ -113,11 +115,11 @@ http://[2001:250:4801::430:89]/hls/hls70a18.m3u8
 http://[2001:250:4801::430:89]/hls/hls70a19.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视-高清
 http://[2001:250:4801::430:89]/hls/hls67a42.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视-高清
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视-标清
 http://ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视-高清
 http://[2001:250:4801::430:89]/hls/hls77a55.m3u8
-#EXTINF:-1 tvg-id="HaiNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视-高清
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视-高清
 http://[2001:250:4801::430:89]/hls/hls77a74.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视-高清
 http://[2001:250:4801::430:89]/hls/jlu_hbhd1.m3u8
@@ -157,18 +159,16 @@ http://[2001:250:4801::430:89]/hls/hls186a503.m3u8
 http://[2001:250:4801::430:89]/hls/sstv.m3u8
 #EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg" group-title="辽宁",沈阳新闻综合-高清
 http://[2001:250:4801::430:89]/hls/hls185a542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",新闻资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",新闻资讯
 http://stream.snrtv.com/sxbc-1-aFHLMO.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",都市青春
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",都市青春
 http://stream.snrtv.com/sxbc-2-brCDF3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",生活频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",生活频道
 http://stream.snrtv.com/sxbc-3-iCIJX7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",公共频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",公共频道
 http://stream.snrtv.com/sxbc-5-rswC49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",体育休闲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",体育休闲
 http://stream.snrtv.com/sxbc-7-orsTW9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",农林卫视
-http://stream.snrtv.com/sxbc-nl-asLN57.m3u8
 #EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="西安",新闻综合
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 tvg-id="XiAnBaiGe.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" group-title="西安",都市频道
