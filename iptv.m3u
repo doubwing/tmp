@@ -163,16 +163,6 @@ http://[2001:250:4801::430:89]/hls/sstv.m3u8
 http://[2001:250:4801::430:89]/hls/hls185a542.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="卫视",黄河卫视
 http://liveflash.sxrtv.com/live/huanghe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",新闻资讯
-http://stream.snrtv.com/sxbc-1-iHKZ46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",都市青春
-http://stream.snrtv.com/sxbc-2-aiDLV6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",生活频道
-http://stream.snrtv.com/sxbc-3-lwBK26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",公共频道
-http://stream.snrtv.com/sxbc-5-vyEY78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",体育休闲
-http://stream.snrtv.com/sxbc-7-aeqvP8.m3u8
 #EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="西安",新闻综合
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 tvg-id="XiAnBaiGe.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" group-title="西安",都市频道
