@@ -37,10 +37,14 @@ http://[2001:250:4801::430:89]/hls/hls185a17.m3u8
 http://[2001:250:4801::430:89]/hls/hls73a6.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://[2001:250:4801::430:89]/hls/hls185a571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="清华大学" tvg-logo="https://www.tsinghua.edu.cn/new/image/logo308.png" group-title="",清华大学
-http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN纪录(英)
 http://[2001:250:4801::430:89]/hls/hls67a44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="清华大学" tvg-logo="https://www.tsinghua.edu.cn/new/image/logo308.png" group-title="",清华大学
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金庸频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="",金庸频道
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
+#EXTINF:-1 tvg-id="" tvg-name="相声小品精选" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="",相声小品精选
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/625133682
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",中数世界地理
 http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中数",中数第一剧场
