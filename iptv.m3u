@@ -160,23 +160,45 @@ http://[2001:250:4801::430:89]/hls/hls186a475.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://[2001:250:4801::430:89]/hls/hls161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="卫视",农林卫视
-http://[2001:250:4801::430:89]/hls/hls186a503.m3u8
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://[2001:250:4801::430:89]/hls/sstv.m3u8
 #EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg" group-title="辽宁",沈阳新闻综合
 http://[2001:250:4801::430:89]/hls/hls185a542.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="卫视",黄河卫视
 http://liveflash.sxrtv.com/live/huanghe.m3u8
-#EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="西安",新闻综合
+#EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="西安新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" group-title="西安",西安新闻综合
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnBaiGe.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" group-title="西安",都市频道
+#EXTINF:-1 tvg-id="XiAnBaiGe.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="西安白鸽" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" group-title="西安",西安都市频道
 http://stream2.xiancity.cn/xatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnShangWuZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv3.jpg" group-title="西安",商务资讯
+#EXTINF:-1 tvg-id="XiAnShangWuZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="西安商务资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv3.jpg" group-title="西安",西安商务资讯
 http://stream2.xiancity.cn/xatv3/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv4.jpg" group-title="西安",影视频道
+#EXTINF:-1 tvg-id="XiAnYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="西安影视" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv4.jpg" group-title="西安",西安影视频道
 http://stream2.xiancity.cn/xatv4/playlist.m3u8
-#EXTINF:-1 tvg-id="XiAnSiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" group-title="西安",丝路频道
+#EXTINF:-1 tvg-id="XiAnSiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="西安丝路" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" group-title="西安",西安丝路频道
 http://stream2.xiancity.cn/xatv5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西安教育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西安教育台
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303037317C7C7C7C687474707C74735B2F63686E5D5B74735D315B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="西教一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教一台
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303330397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="西教二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教二台
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303331307C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="西教三台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教三台
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303331317C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西新闻资讯
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303235357C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西都市青春
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236327C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="陕西生活频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西生活频道
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236337C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="陕西影视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西影视频道
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236347C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="陕西公共频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西公共频道
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236357C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="陕西休闲体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西休闲体育
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236377C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西西部电影
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="辽宁",辽宁公共
 http://[2001:250:4801::430:89]/hls/hls185a541.m3u8
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.jpg" group-title="辽宁",辽宁经济
