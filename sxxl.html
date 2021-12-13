@@ -1,0 +1,17 @@
+<script src="http://res.cnwest.com/t/site/10001/a209bcf3e52b0593bd2c51ae47c9d6ab/assets/snrtv2020/js/EmperorNewClothes.js" type="text/javascript"></script>
+<script src="http://res.cnwest.com/t/site/10001/a209bcf3e52b0593bd2c51ae47c9d6ab/assets/snrtv2020/js/dress.js" type="text/javascript"></script>
+<script src="http://toutiao.cnwest.com/static/v1/stream.js" type="text/javascript"></script>
+<script>
+      mapTV = JSON.parse(Undress(sTV.substring(0,16),sRadio.substring(0,16),sTV.substring(16)));
+      var string = JSON.stringify(mapTV);
+      data=string.match(/"m3u8":"(.*?)"/g);
+      var vid=location.href.split('html?id=')[1];
+      if(vid=='sxxwzx'){m3u8=data[0].match(/"m3u8":"(.*?)"/)[1]};
+      if(vid=='sxdsqc'){m3u8=data[1].match(/"m3u8":"(.*?)"/)[1]};
+      if(vid=='sxsh'){m3u8=data[2].match(/"m3u8":"(.*?)"/)[1]};
+      if(vid=='sxgg'){m3u8=data[4].match(/"m3u8":"(.*?)"/)[1]};
+      if(vid=='sxtyxx'){m3u8=data[6].match(/"m3u8":"(.*?)"/)[1]};
+      if(vid=='sxws'){m3u8=data[7].match(/"m3u8":"(.*?)"/)[1]};
+      if(vid=='nlws'){m3u8=data[8].match(/"m3u8":"(.*?)"/)[1]};
+      location.href=m3u8;//此处可添加m3u8播放器
+</script>
