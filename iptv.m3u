@@ -250,23 +250,23 @@ http://[2001:250:4801::430:89]/hls/hls184a91.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",法治天地
 http://[2001:250:4801::430:89]/hls/hls184a89.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",BTV文艺
-http://[2001:250:4801::430:89]/hls/btv2hd.m3u8
+http://v.mp.haue.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",BTV科教
-http://[2001:250:4801::430:89]/hls/btv3hd.m3u8
+http://v.mp.haue.edu.cn/hls/btv3hd.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",BTV影视
-http://[2001:250:4801::430:89]/hls/btv4hd.m3u8
+http://v.mp.haue.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",BTV财经
-http://[2001:250:4801::430:89]/hls/btv5hd.m3u8
+http://v.mp.haue.edu.cn/hls/btv5hd.m3u8
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",BTV生活
 http://[2001:250:4801::430:89]/hls/btv7hd.m3u8
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="地方",BTV青年
 http://[2001:250:4801::430:89]/hls/btv8hd.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",BTV新闻
-http://[2001:250:4801::430:89]/hls/btv9hd.m3u8
+http://v.mp.haue.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京冬奥纪实
 http://[2001:250:4801::430:89]/hls/hls69a25.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",卡酷动画
-http://[2001:250:4801::430:89]/hls/btv10.m3u8
+http://v.mp.haue.edu.cn/hls/btv10hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",山东教育台
 https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="地方",探索发现频道
