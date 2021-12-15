@@ -136,7 +136,7 @@ http://[2001:250:4801::430:89]/hls/gxhd.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://[2001:250:4801::430:89]/hls/hls186a71.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://slipdaly.ueuo.com/sxxl.php?id=4
+http://slipdaly.top/sxxl.php?id=4
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://[2001:250:4801::430:89]/hls/hls186a474.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
@@ -160,7 +160,7 @@ http://[2001:250:4801::430:89]/hls/hls186a475.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://[2001:250:4801::430:89]/hls/hls161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="卫视",农林卫视
-http://slipdaly.ueuo.com/sxxl.php?id=7
+http://slipdaly.top/sxxl.php?id=7
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://[2001:250:4801::430:89]/hls/sstv.m3u8
 #EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNSY1.jpg" group-title="辽宁",沈阳新闻综合
@@ -186,17 +186,17 @@ http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C313030333130
 #EXTINF:-1 tvg-id="" tvg-name="西教三台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教三台
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303331317C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西新闻资讯
-http://slipdaly.ueuo.com/sxxl.php?id=1
+http://slipdaly.top/sxxl.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西都市青春
-http://slipdaly.ueuo.com/sxxl.php?id=2
+http://slipdaly.top/sxxl.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="陕西生活频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西生活频道
-http://slipdaly.ueuo.com/sxxl.php?id=3
+http://slipdaly.top/sxxl.php?id=3
 #EXTINF:-1 tvg-id="" tvg-name="陕西影视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西影视频道
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236347C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西公共频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西公共频道
-http://slipdaly.ueuo.com/sxxl.php?id=5
+http://slipdaly.top/sxxl.php?id=5
 #EXTINF:-1 tvg-id="" tvg-name="陕西休闲体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西休闲体育
-http://slipdaly.ueuo.com/sxxl.php?id=9
+http://slipdaly.top/sxxl.php?id=9
 #EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西西部电影
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="辽宁",辽宁公共
