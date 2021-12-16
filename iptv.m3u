@@ -138,27 +138,27 @@ http://[2001:250:4801::430:89]/hls/hls186a71.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://[2001:250:4801::430:89]/hls/sxtv.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://[2001:250:4801::430:89]/hls/hls186a474.m3u8
+http://[2001:250:4801::430:89]/hls/nxtv.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://[2001:250:4801::430:89]/hls/hls186a480.m3u8
+http://[2001:250:4801::430:89]/hls/gstv.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
-http://[2001:250:4801::430:89]/hls/hls186a502.m3u8
+http://[2001:250:4801::430:89]/hls/bttv.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
-http://[2001:250:4801::430:89]/hls/hls186a479.m3u8
+http://[2001:250:4801::430:89]/hls/xjtv.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://[2001:250:4801::430:89]/hls/hls186a471.m3u8
+http://[2001:250:4801::430:89]/hls/yntv.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://[2001:250:4801::430:89]/hls/hls186a481.m3u8
+http://[2001:250:4801::430:89]/hls/xztv.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
-http://[2001:250:4801::430:89]/hls/hls186a454.m3u8
+http://[2001:250:4801::430:89]/hls/xmtv.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://[2001:250:4801::430:89]/hls/hls186a478.m3u8
+http://[2001:250:4801::430:89]/hls/nmtv.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
-http://[2001:250:4801::430:89]/hls/hls186a475.m3u8
+http://[2001:250:4801::430:89]/hls/qhtv.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
-http://[2001:250:4801::430:89]/hls/hls161.m3u8
+http://[2001:250:4801::430:89]/hls/ybtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="卫视",农林卫视
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
