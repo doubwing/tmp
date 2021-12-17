@@ -1,5 +1,5 @@
 #EXTM3U
-url-tvg="https://iptv-org.github.io/epg/guides/ae/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/ao/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,http://epg.51zmt.top:8000/e.xml"
+url-tvg="https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://[2001:250:4801::430:89]/hls/hls74a1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
