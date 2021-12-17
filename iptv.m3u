@@ -71,7 +71,7 @@ http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视",CCTV-老故事
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",CCTV-中学生
-http://[2001:250:4801::430:89]/hls/hls184a536.m3u8
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/708869532
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="地方",凤凰卫视中文台
 http://[2001:250:4801::430:89]/hls/hls254.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="地方",凤凰卫视资讯台
