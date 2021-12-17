@@ -1,6 +1,6 @@
 #EXTM3U
 url-tvg="https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合-高清
 http://[2001:250:4801::430:89]/hls/hls74a1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经-高清
 http://[2001:250:4801::430:89]/hls/hls74a2.m3u8
@@ -69,7 +69,7 @@ http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中数",中数CCTV央视台球-高清
 http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视",CCTV-老故事
-http://[2001:250:4801::430:89]/hls/hls113.m3u8
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",CCTV-中学生
 http://[2001:250:4801::430:89]/hls/hls184a536.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="地方",凤凰卫视中文台
