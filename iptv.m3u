@@ -46,27 +46,27 @@ http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
 #EXTINF:-1 tvg-id="" tvg-name="相声小品精选" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="网络",相声小品精选
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625133682
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",中数世界地理-高清
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",世界地理-高清
 http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中数",中数第一剧场-高清
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中数",第一剧场-高清
 http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="中数",中数风云足球-高清
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="中数",风云足球-高清
 http://[2001:250:4801::430:89]/hls/hls184a510.m3u8
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中数",中数风云剧场-高清
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中数",风云剧场-高清
 http://[2001:250:4801::430:89]/hls/hls184a516.m3u8
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="中数",中数风云音乐-高清
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="中数",风云音乐-高清
 http://[2001:250:4801::430:89]/hls/hls184a519.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中数",中数怀旧剧场-高清
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中数",怀旧剧场-高清
 http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中数",中数兵器科技-高清
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中数",兵器科技-高清
 http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="中数",中数女性时尚-高清
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="中数",女性时尚-高清
 http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中数电视指南-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",中数电视指南-高清
+#EXTINF:-1 tvg-id="" tvg-name="中数电视指南-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",电视指南-高清
 http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中数央视文化精品-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",中数央视文化精品-高清
+#EXTINF:-1 tvg-id="" tvg-name="中数央视文化精品-高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",央视文化精品-高清
 http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中数",中数CCTV央视台球-高清
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中数",CCTV央视台球-高清
 http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视",CCTV-老故事
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
@@ -216,14 +216,8 @@ http://[2001:250:4801::430:89]/hls/hls185a417.m3u8
 http://[2001:250:4801::430:89]/hls/hls185a419.m3u8
 #EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" group-title="辽宁",辽宁青少
 http://[2001:250:4801::430:89]/hls/hls185a418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁移动电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",辽宁移动电视
-http://[2001:250:4801::430:89]/hls/hls185a498.m3u8
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫
 http://[2001:250:4801::430:89]/hls/hls64.m3u8
-#EXTINF:-1 tvg-id="1306" tvg-name="网络棋牌" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png" group-title="辽宁",GTV网络棋牌
-http://[2001:250:4801::430:89]/hls/hls65.m3u8
-#EXTINF:-1 tvg-id="1303" tvg-name="GTV游戏竞技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png" group-title="辽宁",GTV游戏竞技
-http://[2001:250:4801::430:89]/hls/hls112.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云-高清
 http://[2001:250:4801::430:89]/hls/hls184a637.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实-高清
