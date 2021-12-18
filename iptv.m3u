@@ -218,8 +218,14 @@ http://[2001:250:4801::430:89]/hls/hls185a417.m3u8
 http://[2001:250:4801::430:89]/hls/hls185a419.m3u8
 #EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" group-title="辽宁",辽宁青少
 http://[2001:250:4801::430:89]/hls/hls185a418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁移动电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="辽宁",辽宁移动电视
+http://[2001:250:4801::430:89]/hls/hls185a498.m3u8
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫
 http://[2001:250:4801::430:89]/hls/hls64.m3u8
+#EXTINF:-1 tvg-id="1306" tvg-name="网络棋牌" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png" group-title="辽宁",GTV网络棋牌
+http://[2001:250:4801::430:89]/hls/hls65.m3u8
+#EXTINF:-1 tvg-id="1303" tvg-name="GTV游戏竞技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png" group-title="辽宁",GTV游戏竞技
+http://[2001:250:4801::430:89]/hls/hls112.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云-高清
 http://[2001:250:4801::430:89]/hls/hls184a637.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实-高清
