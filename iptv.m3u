@@ -46,6 +46,8 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金庸频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="网络",金庸频道
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
+#EXTINF:-1 tvg-id="" tvg-name="金庸频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="网络",金庸频道-测试
+http://slipdaly.ueuo.com/miguak.php?id=jypd
 #EXTINF:-1 tvg-id="" tvg-name="相声小品精选" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="网络",相声小品精选
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625133682
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",世界地理-高清
