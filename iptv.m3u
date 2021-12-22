@@ -70,10 +70,12 @@ http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中数",CCTV央视台球-高清
 http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视",CCTV-老故事
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",CCTV-老故事
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",CCTV-中学生
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",CCTV-中学生
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/708869532
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",中央新影-发现之旅
+http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226018/1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="地方",凤凰卫视中文台
 http://[2001:250:4801::430:89]/hls/hls254.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="地方",凤凰卫视资讯台
@@ -189,9 +191,9 @@ http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C313030333130
 #EXTINF:-1 tvg-id="" tvg-name="西教三台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教三台
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303331317C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西新闻资讯
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303235357C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225771/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西都市青春
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236327C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226060/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西生活频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西生活频道
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236337C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西影视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西影视频道
@@ -202,6 +204,18 @@ http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C313030323635
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236377C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西西部电影
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="宝鸡综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/baoji1.jpg" group-title="陕西",宝鸡综合
+http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225658/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sxrtv.com/img/logo_test.png" group-title="山西",山西经济与科技
+http://liveflash.sxrtv.com/live/sxfinance.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxyspd.jpg" group-title="山西",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sxrtv.com/img/logo_test.png" group-title="山西",山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxggpd.jpg" group-title="山西",山西公共
+http://liveflash.sxrtv.com/live/sxpublic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",芮城综合
+http://slipdaly.ueuo.com/aodi.php?id=rczh
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="辽宁",辽宁公共-高清
 http://[2001:250:4801::430:89]/hls/hls185a541.m3u8
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.jpg" group-title="辽宁",辽宁经济-高清
@@ -330,13 +344,3 @@ http://[2001:250:4801::430:89]/hls/jlu_ccqc.m3u8
 http://[2001:250:4801::430:89]/hls/jlu_ccjj.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="长春娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",长春娱乐
 http://[2001:250:4801::430:89]/hls/jlu_ccyl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",山西经济与科技
-http://liveflash.sxrtv.com/live/sxfinance.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",山西影视
-http://liveflash.sxrtv.com/live/sxfilm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",山西社会与法治
-http://liveflash.sxrtv.com/live/sxedu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",山西公共
-http://liveflash.sxrtv.com/live/sxpublic.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",芮城综合
-http://slipdaly.ueuo.com/aodi.php?id=rczh
