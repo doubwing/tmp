@@ -340,3 +340,5 @@ http://liveflash.sxrtv.com/live/sxfilm.m3u8
 http://liveflash.sxrtv.com/live/sxedu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",山西公共
 http://liveflash.sxrtv.com/live/sxpublic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",芮城综合
+http://slipdaly.ueuo.com/aodi.php?id=rczh
