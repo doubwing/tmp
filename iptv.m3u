@@ -87,7 +87,7 @@ http://iptv.tvfix.org/hls/chctv.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC高清",CHC动作电影-高清
 http://iptv.tvfix.org/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台-高清
-rtmp://txycsbl.centv.cn/zb/cetv1
+http://www.cetvlcybl.cetv.cn/live/cetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2台-高清
 rtmp://txycsbl.centv.cn/zk/cetv2
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",中国教育3台-高清
