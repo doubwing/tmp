@@ -64,9 +64,9 @@ http://live.gq.miguvideo.com:8080/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?&encryp
 http://live.gq.miguvideo.com:8080/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="中数",女性时尚-高清
 http://live.gq.miguvideo.com:8080/ws_v/2018/nxss/nxss711/1000/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",电视指南-高清
+#EXTINF:-1 tvg-id="" tvg-name="中数电视指南" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",电视指南-高清
 http://117.148.179.147/PLTV/88888888/224/3221231571/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",央视文化精品-高清
+#EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",央视文化精品-高清
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programi
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中数",CCTV央视台球-高清
 http://live.gq.miguvideo.com:8080/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=1
