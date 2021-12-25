@@ -299,7 +299,7 @@ http://v.mp.haue.edu.cn/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="527" tvg-name="Channel[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="地方",Channel[V]
 http://v.mp.haue.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",星空卫视
-http://v.mp.haue.edu.cn/hls/startv.m3u8
+http://live.scuec.edu.cn:8080/hls/startv.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="地方",国家地理频道
 http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="StarSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",Star Sports
