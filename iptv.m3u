@@ -53,11 +53,11 @@ http://[2409:8087:7000:20::15]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",世界地理-高清
 http://live.gq.miguvideo.com:8080/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中数",第一剧场-高清
-http://117.148.179.160/PLTV/88888888/224/3221231540/index.m3u8
+http://live.gq.miguvideo.com:8080/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="中数",风云足球-高清
-http://117.148.179.160/PLTV/88888888/224/3221231547/index.m3u8
+http://live.gq.miguvideo.com:8080/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中数",风云剧场-高清
-http://117.148.179.160/PLTV/88888888/224/3221231604/index.m3u8
+http://live.gq.miguvideo.com:8080/ws_v/2018/fyjc/fyjc711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="中数",风云音乐-高清
 http://live.gq.miguvideo.com:8080/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中数",怀旧剧场-高清
