@@ -69,7 +69,7 @@ http://live.gq.miguvideo.com:8080/ws_v/2018/nxss/nxss711/1000/index.m3u8?&encryp
 #EXTINF:-1 tvg-id="" tvg-name="中数电视指南" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",电视指南-高清
 http://117.148.179.147/PLTV/88888888/224/3221231571/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="中数",央视文化精品-高清
-http://live.gq.miguvideo.com:8080/ws_v/2018/ysjp/ysjp711/1000/index.m3u8?&encrypt=1
+http://live.scuec.edu.cn:8080/hls/whjptv.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中数",CCTV央视台球-高清
 http://live.gq.miguvideo.com:8080/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",中央新影-老故事
