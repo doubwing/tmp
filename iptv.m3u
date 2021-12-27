@@ -50,6 +50,8 @@ http://slipdaly.ueuo.com/miguak.php?id=jypd
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625133682
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="网络",IPTV相声小品
 http://[2409:8087:7000:20::15]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="网络",黑莓电影-高清
+http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",世界地理-高清
 http://live.gq.miguvideo.com:8080/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中数",第一剧场-高清
@@ -133,19 +135,19 @@ http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/1.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视-高清
 http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视-高清
-http://live.scuec.edu.cn:8080/hls/lyhd.m3u8
+http://[2409:8087:3800:2020:1000::414]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视-高清
-http://live.scuec.edu.cn:8080/hls/hebhd.m3u8
+http://[2409:8087:3800:2020:1000::81d]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视-高清
 http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/1.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视-高清
-http://live.scuec.edu.cn:8080/hls/gxhd.m3u8
+http://[2409:8087:3800:2020:1000::404]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视-高清
 http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225796/1.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225782/1.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3131317C317C383030307C6E7877737C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00
+http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
