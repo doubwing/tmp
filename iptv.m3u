@@ -135,7 +135,7 @@ http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/1.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视-高清
 http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/1.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视-高清
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
+http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视-高清
 http://[2409:8087:3800:2020:1000::414]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视-高清
