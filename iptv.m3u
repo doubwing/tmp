@@ -56,6 +56,8 @@ http://[2409:8087:7000:20::15]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="网络",爱上4K
 http://[2409:8087:7000:20::18]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/4k.jpg" group-title="网络",纯享4K
+http://[2409:8087:3800:2020:1000::81d]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",世界地理-高清
 http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=DOXhanliuHD_7000
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中数",第一剧场-高清
