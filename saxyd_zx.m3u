@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001290?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001008?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001288?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001327?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001289?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001328?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001292?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-16奥林匹克
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",CCTV-NEWS高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC-动作电影
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC-高清电影
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC-家庭影院
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓HD
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",茶HD
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",体育高清赛事
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",聚鲨环球精选
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002013/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",聚鲨生活
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002023/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",融媒直播
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001323?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西一套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西二套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西三套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西四套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西五套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西六套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西七套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西八套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",睛彩三秦
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001759/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西安教育台
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试1
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试2
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001026?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001027?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001032?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001025?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001299?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001030?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001029?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001051?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001043?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001053?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001054?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001055?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001050?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001036?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001056?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001044?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001037?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001045?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001057?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001049?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001038?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001048?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001033?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001035?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001046?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001039?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001061?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001047?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001059?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001063?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2台
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001064?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",中国教育3台
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001309?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",中国教育4台
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001308?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001302?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001304?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001305?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001306?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好享购物
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001277?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",央广购物
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001286?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚购物
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001437/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001335?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001336?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001337?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001338?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001340?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001342?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001343?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001344?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001345?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001346?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视极清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001347?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001018?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001021?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001015?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001017?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001023?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001011?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001012?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001013?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001014?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001019?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001301?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001052?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001040?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001042?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001041?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001034?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001058?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001060?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV3+高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001629/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",IPTV5+高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV6+高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001649/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV8+高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001583/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV相声小品
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001659/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001065?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",炫动卡通
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001303?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001310?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001066?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001067?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕视直播
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001872/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001329?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001330?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育电视台
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001317?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001307?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安多卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001311?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",农林卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001312?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001313?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",发现之旅
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001314?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001315?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001600/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",篮球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001326?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",台球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下高清
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001689/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6612" tvg-name="弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="地方",弈坛春秋
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001322?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",置业频道
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001318?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭理财
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001321?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6610" tvg-name="京视剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC8.jpg" group-title="地方",京视剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001319?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001316?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",圆点生活
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
