@@ -36,8 +36,6 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001020?virtualDoma
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17高清
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",CCTV-NEWS高清
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC-动作电影
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC-高清电影
