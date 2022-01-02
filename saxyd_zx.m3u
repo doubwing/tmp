@@ -22,7 +22,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10高清
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001288?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11高清
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001327?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12高清
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001289?virtualDomain=yinhe.live_hls.zte.com
@@ -76,8 +76,6 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西西部电影
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",睛彩三秦
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001759/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",西安教育台
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="地方",凤凰卫视中文台
