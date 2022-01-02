@@ -161,7 +161,7 @@ http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225731/1.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
-http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225560/1.m3u8
+http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221228290/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/1.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
@@ -191,7 +191,7 @@ http://stream2.xiancity.cn/xatv4/playlist.m3u8
 #EXTINF:-1 tvg-id="XiAnSiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-name="西安丝路" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" group-title="西安",西安丝路频道
 http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安教育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西安教育台
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303037317C7C7C7C687474707C74735B2F63686E5D5B74735D315B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226015/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西教一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教一台
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303330397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="西教二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教二台
