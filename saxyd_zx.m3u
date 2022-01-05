@@ -259,7 +259,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001699/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001329?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实高清
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001330?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="山东教育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",山东教育电视台
+#EXTINF:-1 tvg-id="" tvg-name="山东教育台" tvg-logo="https://slipdaly.github.io/tmp/logos/sdetv.image" group-title="地方",山东教育电视台
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001317?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001307?virtualDomain=yinhe.live_hls.zte.com
