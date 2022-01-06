@@ -1,9 +1,5 @@
 #EXTM3U
 url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="金庸频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",金庸频道
-http://slipdaly.ueuo.com/miguak.php?id=jypd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",喜剧联盟
-http://slipdaly.ueuo.com/miguak.php?id=xjlm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="NewTV",黑莓电影-高清
 http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC高清",CHC高清电影-高清
@@ -12,8 +8,16 @@ http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC高清",CHC动作电影-高清
 http://[2409:8087:7000:20::10]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="网络",爱上4K
+http://[2409:8087:7000:20::18]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",凤凰电影
 http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金庸频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",金庸频道
+http://slipdaly.ueuo.com/miguak.php?id=jypd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",古天乐影院
+http://slipdaly.ueuo.com/miguak.php?id=gtlyy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",喜剧联盟
+http://slipdaly.ueuo.com/miguak.php?id=xjlm
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",怀旧老片
 http://slipdaly.ueuo.com/miguak.php?id=hjlp
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",每日科幻电影
@@ -58,8 +62,6 @@ http://slipdaly.ueuo.com/miguak.php?id=jdhsp
 http://slipdaly.ueuo.com/miguak.php?id=gfcyy
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",假期剧场
 http://slipdaly.ueuo.com/miguak.php?id=jqjc
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",古天乐影院
-http://slipdaly.ueuo.com/miguak.php?id=gtlyy
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",红色谍战剧场
 http://slipdaly.ueuo.com/miguak.php?id=hsdzjc
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",武侠剧场
