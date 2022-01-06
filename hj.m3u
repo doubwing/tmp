@@ -14,6 +14,8 @@ http://[2409:8087:7000:20::18]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金庸频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",金庸频道
 http://slipdaly.ueuo.com/miguak.php?id=jypd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",古龙作品集
+http://slipdaly.ueuo.com/miguak.php?id=glzpj
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",古天乐影院
 http://slipdaly.ueuo.com/miguak.php?id=gtlyy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",喜剧联盟
@@ -80,8 +82,6 @@ http://slipdaly.ueuo.com/miguak.php?id=gfyy
 http://slipdaly.ueuo.com/miguak.php?id=zgryy
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",刘德华影院
 http://slipdaly.ueuo.com/miguak.php?id=ldhyy
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",古龙作品集
-http://slipdaly.ueuo.com/miguak.php?id=glzpj
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",刘亦菲影视展播
 http://slipdaly.ueuo.com/miguak.php?id=lyfys
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",成龙作品集
