@@ -1,0 +1,88 @@
+#EXTM3U
+url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="金庸频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",金庸频道
+http://slipdaly.ueuo.com/miguak.php?id=jypd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",喜剧联盟
+http://slipdaly.ueuo.com/miguak.php?id=xjlm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="NewTV",黑莓电影-高清
+http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CHC高清",CHC高清电影-高清
+http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CHC高清",CHC家庭影院-高清
+http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CHC高清",CHC动作电影-高清
+http://[2409:8087:7000:20::10]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",凤凰电影
+http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",怀旧老片
+http://slipdaly.ueuo.com/miguak.php?id=hjlp
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",每日科幻电影
+http://slipdaly.ueuo.com/miguak.php?id=mrkhdy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",神探狄仁杰
+http://slipdaly.ueuo.com/miguak.php?id=stdrj
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",杨幂影院
+http://slipdaly.ueuo.com/miguak.php?id=ymyy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",深夜失眠剧场
+http://slipdaly.ueuo.com/miguak.php?id=sysmjc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",高清大片
+http://slipdaly.ueuo.com/miguak.php?id=gqdp
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",盗墓方法论
+http://slipdaly.ueuo.com/miguak.php?id=dmffl
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",追剧少女
+http://slipdaly.ueuo.com/miguak.php?id=zjsn
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",周星驰影院
+http://slipdaly.ueuo.com/miguak.php?id=zxcyy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",高能烧脑时刻
+http://slipdaly.ueuo.com/miguak.php?id=gnsnsk
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",赛事最经典
+http://slipdaly.ueuo.com/miguak.php?id=sszjd
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",新片放映厅
+http://slipdaly.ueuo.com/miguak.php?id=xpfyt
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",热剧联播
+http://slipdaly.ueuo.com/miguak.php?id=rjlb
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",爱情公寓
+http://slipdaly.ueuo.com/miguak.php?id=aqgy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",黄金剧场
+http://slipdaly.ueuo.com/miguak.php?id=mghjjc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",云上电影院
+http://slipdaly.ueuo.com/miguak.php?id=ysdyy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",军旅剧场
+http://slipdaly.ueuo.com/miguak.php?id=jljc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",少林剧场
+http://slipdaly.ueuo.com/miguak.php?id=sljc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",吴京作品集
+http://slipdaly.ueuo.com/miguak.php?id=wjzpj
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",经典贺岁片
+http://slipdaly.ueuo.com/miguak.php?id=jdhsp
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",郭富城影院
+http://slipdaly.ueuo.com/miguak.php?id=gfcyy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",假期剧场
+http://slipdaly.ueuo.com/miguak.php?id=jqjc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",古天乐影院
+http://slipdaly.ueuo.com/miguak.php?id=gtlyy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",红色谍战剧场
+http://slipdaly.ueuo.com/miguak.php?id=hsdzjc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",武侠剧场
+http://slipdaly.ueuo.com/miguak.php?id=wxjc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",试胆大会
+http://slipdaly.ueuo.com/miguak.php?id=sddh
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",TVB剧场
+http://slipdaly.ueuo.com/miguak.php?id=tvbjc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",周润发影院
+http://slipdaly.ueuo.com/miguak.php?id=zrfyy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",经典影视速看
+http://slipdaly.ueuo.com/miguak.php?id=hsyssk
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",高分影院
+http://slipdaly.ueuo.com/miguak.php?id=gfyy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",张国荣影院
+http://slipdaly.ueuo.com/miguak.php?id=zgryy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",刘德华影院
+http://slipdaly.ueuo.com/miguak.php?id=ldhyy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",古龙作品集
+http://slipdaly.ueuo.com/miguak.php?id=glzpj
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",刘亦菲影视展播
+http://slipdaly.ueuo.com/miguak.php?id=lyfys
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",成龙作品集
+http://slipdaly.ueuo.com/miguak.php?id=clzpj
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="咪咕",葛优作品集
+http://slipdaly.ueuo.com/miguak.php?id=gyzpj
