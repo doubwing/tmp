@@ -53,7 +53,7 @@ http://stream.slave.jxtvnet.tv:14311/playurl.m3u8?playtype=live&protocol=http&ac
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="中数",风云足球-高清
 http://stream.slave.jxtvnet.tv:14311/playurl.m3u8?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中数",风云剧场-高清
-http://slipdaly.ueuo.com/miguak.php?id=fyjc
+http://stream.slave.jxtvnet.tv:14311/playurl.m3u8?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000570&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="中数",风云音乐-高清
 http://39.134.196.142/hlsmgsplive.miguvideo.com:8080/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中数",怀旧剧场-高清
