@@ -204,8 +204,6 @@ http://livepull.sxiptv.cn/live/shanxi7taohd.m3u8?txSecret=28b4bac8011c49911ed1b0
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",圆点生活
 http://[2409:8087:7000:20::16]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宝鸡综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/baoji1.jpg" group-title="陕西",宝鸡综合
-http://[2409:8087:7000:20::10]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sxrtv.com/img/logo_test.png" group-title="山西",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxyspd.jpg" group-title="山西",山西影视
@@ -276,14 +274,22 @@ http://116.128.128.197/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/m
 http://[2409:8087:7000:20::11]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金色频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",金色频道
 http://[2001:250:4801::430:89]/hls/hls184a90.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",杨凌综合
-http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",渭南新闻综合
-http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225660/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宝鸡综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/baoji1.jpg" group-title="陕西",宝鸡综合
+http://[2409:8087:7000:20::10]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",城固综合
+http://[2409:8087:7000:20::e]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",安康综合
+http://[2409:8087:7000:20::18]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",佛坪综合
+http://[2409:8087:7000:20::14]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",延安综合
 http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226374/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",延安公共
 http://[2409:8087:7001:20:2::2]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226375/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",杨凌综合
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",渭南新闻综合
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225660/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",府谷综合
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",神木新闻
@@ -302,9 +308,3 @@ http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226005/1.m3u8
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225848/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",紫阳综合
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225845/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",城固综合
-http://[2409:8087:7000:20::e]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",安康综合
-http://[2409:8087:7000:20::18]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="陕西",佛坪综合
-http://[2409:8087:7000:20::14]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
