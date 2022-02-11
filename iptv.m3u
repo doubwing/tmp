@@ -215,7 +215,7 @@ http://liveflash.sxrtv.com/live/sxedu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西公共" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxggpd.jpg" group-title="山西",山西公共
 http://liveflash.sxrtv.com/live/sxpublic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="山西",芮城综合
-http://slipdaly.ueuo.com/aodi.php?id=rczh
+http://slipdaly.freedynamicdns.org/aodi.php?id=rczh
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcvHqOmtn/hgQoKLE9+7Ay2N6D1ko3Yx6/syfV3AyuDrw==,,END
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="地方",北京科教
