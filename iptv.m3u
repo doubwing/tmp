@@ -137,7 +137,7 @@ http://live.aishang.ctlcdn.com/00000110240318_1/encoder/0/playlist.m3u8?CONTENTI
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8?txSecret=2c8f252eeb8e15cb0eea8e157c84e6ec&txTime=66666666
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8
+http://live.aishang.ctlcdn.com/00000110240061_1/encoder/0/playlist.m3u8?CONTENTID=00000110240061_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
@@ -182,12 +182,6 @@ http://[2409:8087:7000:20::16]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安教育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西安教育台
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303037317C7C7C7C687474707C74735B2F63686E5D5B74735D315B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
-#EXTINF:-1 tvg-id="" tvg-name="西教一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教一台
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303330397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
-#EXTINF:-1 tvg-id="" tvg-name="西教二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教二台
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303331307C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
-#EXTINF:-1 tvg-id="" tvg-name="西教三台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="西安",西教三台
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303331317C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西1套" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西新闻资讯
 http://livepull.sxiptv.cn/live/shanxi1taohd.m3u8?txSecret=1d0dd5b982a07bd19b396912a20cf491&txTime=66666666
 #EXTINF:-1 tvg-id="" tvg-name="陕西2套" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西都市青春
