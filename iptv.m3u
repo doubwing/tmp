@@ -161,7 +161,7 @@ http://[2409:8087:7000:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/nonglintv.jpg" group-title="卫视",农林卫视
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
-http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="卫视",黄河卫视
 http://liveflash.sxrtv.com/live/huanghe.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京冬奥纪实
