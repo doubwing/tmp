@@ -41,7 +41,7 @@ http://live.aishang.ctlcdn.com/00000110240365_1/encoder/0/playlist.m3u8?CONTENTI
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN纪录(英)
 http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225728/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://[2409:8087:3428:0020:0500::1010]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="清华大学" tvg-logo="https://www.tsinghua.edu.cn/new/image/logo308.png" group-title="网络",清华大学
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",世界地理
@@ -73,9 +73,9 @@ http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 #EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",中央新影-发现之旅
 http://[2409:8087:7001:20:3::6]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://[2409:8087:3428:0020:0500::1007]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://[2409:8087:3428:0020:0500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台
@@ -149,7 +149,7 @@ http://[2409:8087:4400:20:1:a0f:12:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://[2409:8087:7001:20:2::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+http://[2409:8087:3428:0020:0500::1010]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
@@ -198,6 +198,8 @@ http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C313030323635
 http://livepull.sxiptv.cn/live/shanxi7taohd.m3u8?txSecret=962f36a916c11856ce9b0244774caa16&txTime=7157cad4
 #EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西西部电影
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://slipdaly.github.io/tmp/logos/haixiatv_vectorized.png" group-title="卫视",海峡卫视
+http://[2409:8087:3428:0020:0500::1016]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",圆点生活
 http://[2409:8087:7000:20::16]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西经济与科技" tvg-logo="http://www.sxrtv.com/img/logo_test.png" group-title="山西",山西经济与科技
