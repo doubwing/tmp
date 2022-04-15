@@ -56,7 +56,7 @@ http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="中数",女性时尚
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="卫生健康" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",卫生健康
+#EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="中数",卫生健康
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中数",怀旧剧场
 http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
