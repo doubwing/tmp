@@ -189,7 +189,7 @@ http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C313030303731
 #EXTINF:-1 tvg-id="" tvg-name="陕西1套" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西新闻资讯
 http://livepull.sxiptv.cn/live/shanxi1taohd.m3u8?txSecret=9567eebc1258b465d0d58f93ab9483be&txTime=7157c932
 #EXTINF:-1 tvg-id="" tvg-name="陕西2套" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西都市青春
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236327C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+http://livepull.sxiptv.cn/live/shanxi2taohd.m3u8?txSecret=51293010c02e905703b2b92f697b0e48&txTime=7157ca98
 #EXTINF:-1 tvg-id="" tvg-name="陕西3套" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西生活频道
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236337C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西4套" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西影视频道
