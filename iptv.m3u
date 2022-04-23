@@ -175,7 +175,7 @@ http://live.aishang.ctlcdn.com/00000110240304_1/encoder/0/playlist.m3u8?CONTENTI
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
 http://[2409:8087:1:20:20::2d]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcZU6zpMnBRj8F5x1e65FnY33yNhKtBp1tUOIOoQaZW2g==,,END
 #EXTINF:-1 tvg-id="XiAnXinWen.cn" tvg-name="西安新闻" tvg-logo="https://slipdaly.github.io/tmp/logos/xiaan-1.png" group-title="西安",西安新闻综合
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001720/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" group-title="西安",西安都市频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv3.jpg" group-title="西安",西安商务资讯
