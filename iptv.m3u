@@ -159,7 +159,7 @@ http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://[2409:8087:7000:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/nonglintv.jpg" group-title="卫视",农林卫视
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="卫视",黄河卫视
@@ -199,7 +199,7 @@ http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C313030323635
 #EXTINF:-1 tvg-id="" tvg-name="陕西7套" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西体育休闲
 http://livepull.sxiptv.cn/live/shanxi7taohd.m3u8?txSecret=962f36a916c11856ce9b0244774caa16&txTime=7157cad4
 #EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtv.jpg" group-title="陕西",陕西西部电影
-http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://slipdaly.github.io/tmp/logos/haixiatv_vectorized.png" group-title="卫视",海峡卫视
 http://[2409:8087:3428:0020:0500::1016]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",圆点生活
