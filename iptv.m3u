@@ -246,7 +246,7 @@ http://[2409:8087:7000:20::15]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 http://[2409:8087:7000:20::11]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",MAX极速汽车
 http://[2409:8087:7000:20::e]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226574/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdsjc.jpg" group-title="上海",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="SiTV都市剧场" tvg-logo="https://upload.112114.xyz/logo/SITV%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="上海",都市剧场
 http://[2409:8087:7002:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 http://[2409:8087:7001:20:2::2]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
@@ -264,7 +264,7 @@ http://[2409:8087:7000:20::12]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 http://[2409:8087:7000:20::11]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="河南",国学频道
 http://[2409:8087:4400:20:1:a0f:12:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://slipdaly.github.io/tmp/logos/jsxt.png" group-title="上海",金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="SiTV金色学堂" tvg-logo="https://slipdaly.github.io/tmp/logos/jsxt.png" group-title="上海",金色学堂
 http://[2409:8087:4400:20:1:a0f:12:2d]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宝鸡综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/baoji1.jpg" group-title="陕西",宝鸡综合
 http://[2409:8087:7000:20::10]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
