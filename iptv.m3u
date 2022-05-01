@@ -244,7 +244,7 @@ http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:7000:20::15]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="湖南",茶频道
 http://[2409:8087:7000:20::11]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",MAX极速汽车
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E6%9E%81%E9%80%9F%E6%B1%BD%E8%BD%A6.png" group-title="上海",MAX极速汽车
 http://[2409:8087:7000:20::e]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226574/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SiTV都市剧场" tvg-logo="https://slipdaly.github.io/tmp/logos/SITV%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="上海",都市剧场
 http://[2409:8087:7002:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
@@ -254,7 +254,7 @@ http://[2409:8087:7001:20:2::2]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 http://[2409:8087:6a01:1020::b]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://slipdaly.github.io/tmp/logos/SITV%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="上海",法治天地
 http://[2409:8087:6a01:1020::10]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湖南",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://upload.112114.xyz/logo/%E6%B9%96%E5%8D%97%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="湖南",金鹰卡通
 http://[2409:8087:6a01:1020::11]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226296/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
 http://[2409:8087:7000:20::14]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
