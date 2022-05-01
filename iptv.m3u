@@ -166,7 +166,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 http://liveflash.sxrtv.com/live/huanghe.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
 http://[2409:8087:7001:20:1000::85]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="https://upload.112114.xyz/logo/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86B.png" group-title="卫视",南方卫视
 http://[2409:8087:7001:20:1000::94]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://[2409:8087:7001:20:2::5]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
