@@ -261,7 +261,7 @@ http://[2409:8087:7000:20::14]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://[2409:8087:7000:20::12]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNC中文" tvg-logo="https://slipdaly.github.io/tmp/logos/CNC.png" group-title="央视",CNC中文
-http://[2409:8087:3800:2020:1000::81b]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="河南",国学频道
 http://[2409:8087:4400:20:1:a0f:12:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SiTV金色学堂" tvg-logo="https://slipdaly.github.io/tmp/logos/jsxt.png" group-title="上海",金色学堂
