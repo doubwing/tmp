@@ -47,17 +47,17 @@ http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",世界地理
 http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中数",第一剧场
-http://wwm.weetai.cn/cdn/iptv/tyzb01.php?id=DOXyinghuaHD_7000
+http://113.201.12.38/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="中数",风云足球
-http://wwm.weetai.cn/cdn/iptv/tyzb01.php?id=fengyunzuqiu_1500
+http://113.201.12.38/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中数",风云剧场
-http://wwm.weetai.cn/cdn/iptv/tyzb01.php?id=DOXxinzhiHD_7000
+http://113.201.12.38/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="中数",风云音乐
-http://wwm.weetai.cn/cdn/iptv/tyzb01.php?id=DOXxinyiHD_7000
+http://113.201.12.38/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="中数",女性时尚
-http://wwm.weetai.cn/cdn/iptv/tyzb01.php?id=DOXyuanxianHD_7000
+http://113.201.12.38/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="https://slipdaly.github.io/tmp/logos/%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" group-title="中数",卫生健康
-http://wwm.weetai.cn/cdn/iptv/tyzb01.php?id=weishengjiankang_1500
+http://113.201.12.38/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中数",怀旧剧场
 http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://slipdaly.github.io/tmp/logos/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="中数",兵器科技
