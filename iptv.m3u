@@ -135,7 +135,7 @@ http://[2409:8087:3800:2020:1000::404]:8080/hwrr.jx.chinamobile.com/PLTV/8888888
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://live.aishang.ctlcdn.com/00000110240318_1/encoder/0/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8?txSecret=ed403f131b97932cbcab2f8054844b5d&txTime=7157c9d0
+http://livepull.sxiptv.cn/live/shanxiweishihd.flv?txSecret=0c6fe00e272f1f5092389ed7104afd2b&txTime=68493474
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://[2409:8087:7001:20:2::5]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
@@ -187,9 +187,9 @@ http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安教育台" tvg-logo="https://slipdaly.github.io/tmp/logos/xiananetv.png" group-title="西安",西安教育台
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303037317C7C7C7C687474707C74735B2F63686E5D5B74735D315B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西一套" tvg-logo="https://slipdaly.github.io/tmp/logos/%E9%99%95%E8%A5%BFLOGO.png" group-title="陕西",陕西新闻资讯
-http://livepull.sxiptv.cn/live/shanxi1taohd.m3u8?txSecret=9567eebc1258b465d0d58f93ab9483be&txTime=7157c932
+http://livepull.sxiptv.cn/live/shanxi1taohd.flv?txSecret=7bd8ccb612c62e41c5a0f2e776afa3b7&txTime=684934a9
 #EXTINF:-1 tvg-id="" tvg-name="陕西二套" tvg-logo="https://slipdaly.github.io/tmp/logos/%E9%99%95%E8%A5%BFLOGO.png" group-title="陕西",陕西都市青春
-http://livepull.sxiptv.cn/live/shanxi2taohd.m3u8?txSecret=51293010c02e905703b2b92f697b0e48&txTime=7157ca98
+http://livepull.sxiptv.cn/live/shanxi2taohd.flv?txSecret=f030d73edb4dee8e022ea690cd8b3741&txTime=6849352c
 #EXTINF:-1 tvg-id="" tvg-name="陕西三套" tvg-logo="https://slipdaly.github.io/tmp/logos/%E9%99%95%E8%A5%BFLOGO.png" group-title="陕西",陕西生活频道
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236337C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西四套" tvg-logo="https://slipdaly.github.io/tmp/logos/%E9%99%95%E8%A5%BFLOGO.png" group-title="陕西",陕西影视频道
@@ -197,13 +197,13 @@ http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C313030323634
 #EXTINF:-1 tvg-id="" tvg-name="陕西五套" tvg-logo="https://slipdaly.github.io/tmp/logos/%E9%99%95%E8%A5%BFLOGO.png" group-title="陕西",陕西公共频道
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236357C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="陕西七套" tvg-logo="https://slipdaly.github.io/tmp/logos/%E9%99%95%E8%A5%BFLOGO.png" group-title="陕西",陕西体育休闲
-http://livepull.sxiptv.cn/live/shanxi7taohd.m3u8?txSecret=962f36a916c11856ce9b0244774caa16&txTime=7157cad4
+http://livepull.sxiptv.cn/live/shanxi7taohd.flv?txSecret=7b2de522b94267caf11b272be9a2ffcd&txTime=68493560
 #EXTINF:-1 tvg-id="" tvg-name="陕西八套" tvg-logo="https://slipdaly.github.io/tmp/logos/%E9%99%95%E8%A5%BFLOGO.png" group-title="陕西",陕西西部电影
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303236387C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 #EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://slipdaly.github.io/tmp/logos/haixiatv_vectorized.png" group-title="卫视",海峡卫视
 http://[2409:8087:3428:0020:0500::1016]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="地方",圆点导视
-http://livepull.sxiptv.cn/live/yuandiandaoshilive.m3u8?txSecret=951b4d19aaedc243ed070c9a102800bf&txTime=7157ca57
+http://livepull.sxiptv.cn/live/yuandiandaoshilive.flv?txSecret=03c3f936d31ec79f72e8742134734228&txTime=6849341c
 #EXTINF:-1 tvg-id="" tvg-name="山西经济与科技" tvg-logo="http://www.sxrtv.com/img/logo_test.png" group-title="山西",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西影视" tvg-logo="https://slipdaly.github.io/tmp/logos/sxyspd.png" group-title="山西",山西影视
