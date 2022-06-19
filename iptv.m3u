@@ -153,7 +153,7 @@ http://[2409:8087:7001:20:2::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://[2409:8087:3428:0020:0500::1010]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://slipdaly.freedynamicdns.org/hoge.php?id=nmgws
+http://[2409:8087:1070:301:2028::24]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225794/index.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
@@ -174,14 +174,14 @@ http://[2409:8087:7001:20:2::5]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 http://live.aishang.ctlcdn.com/00000110240304_1/encoder/0/playlist.m3u8?CONTENTID=00000110240304_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
 http://[2409:8087:1:20:20::2d]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcZU6zpMnBRj8F5x1e65FnY33yNhKtBp1tUOIOoQaZW2g==,,END
-#EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="https://slipdaly.github.io/tmp/logos/xiaan-1.png" group-title="西安",西安新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="西安新闻综合" tvg-logo="https://slipdaly.github.io/tmp/logos/xiaan-1.png" group-title="西安",西安新闻综合
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 tvg-name="西安都市" tvg-logo="https://slipdaly.github.io/tmp/logos/xatv2.png" group-title="西安",西安都市频道
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://stream2.xiancity.cn/xatv2/playlist.m3u8
 #EXTINF:-1 tvg-name="西安商务资迅" tvg-logo="https://slipdaly.github.io/tmp/logos/xatv3.png" group-title="西安",西安商务资讯
-http://[2409:8087:7000:20::13]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
 #EXTINF:-1 tvg-name="西安影视" tvg-logo="https://slipdaly.github.io/tmp/logos/xatv4.png" group-title="西安",西安影视频道
-http://[2409:8087:7000:20::16]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
+http://stream2.xiancity.cn/xatv4/playlist.m3u8
 #EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://slipdaly.github.io/tmp/logos/xatv5.png" group-title="西安",西安丝路频道
 http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安教育台" tvg-logo="https://slipdaly.github.io/tmp/logos/xiananetv.png" group-title="西安",西安教育台
